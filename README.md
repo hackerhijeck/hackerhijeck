@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hello%20World&fontSize=80&fontAlign=50&fontAlignY=35&desc=I'm%20Manab Dowarah&descAlign=50&descAlignY=60&descSize=25&stroke=00ff00&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hello&fontSize=80&fontAlign=50&fontAlignY=35&desc=I'm%20Manab%20Dowarah&descAlign=50&descAlignY=60&descSize=25&stroke=00ff00&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
@@ -51,12 +49,18 @@ I bridge the gap between **offensive security** and **software engineering**. My
 ### 📊 Intelligence Report
 
 <div align="center">
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&rank_icon=github&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="175" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="175" alt="languages graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=hackerhijeck&show_icons=true&theme=react&rank_icon=github&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="175" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerhijeck&layout=compact&theme=react&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="175" alt="languages graph" />
+  
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&border_color=30363d&bg_color=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="streak graph" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackerhijeck&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
 </div>
 
 ---
