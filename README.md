@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hello&fontSize=80&fontAlign=50&fontAlignY=35&desc=I'm%20Manab%20Dowarah&descAlign=50&descAlignY=60&descSize=25&stroke=00ff00&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hello&fontSize=80&fontAlign=50&fontAlignY=35&desc=I'm%20Manab%20Jyoti%20Dowarah&descAlign=50&descAlignY=60&descSize=25&stroke=00ff00&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/manab-jyoti-dowarah-a02305211/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/hackerhikeck">
+  <a href="https://github.com/hackerhijeck">
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
   <a href="mailto:bughunter414@gmail.com">
